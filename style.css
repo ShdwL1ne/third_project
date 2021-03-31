@@ -152,7 +152,7 @@
     border-bottom: #fff;
     white-space: nowrap;
     background: #fff;
-    z-index: 1;
+    z-index: 2;
 }
 
 .header_nav_bar__active_cart__bottom {
@@ -161,6 +161,8 @@
     left: -178px;
     right: -20px;
     border: 1px solid #bbbbbb   ;
+    background: #ffffff;
+    z-index: 1;
 }
 
 .header_nav_bar__active_cart__bottom:hover {
